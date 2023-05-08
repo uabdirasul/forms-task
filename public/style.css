@@ -1,0 +1,21 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(65, 65, 114);
+}
+
+h2 {
+  margin: 0;
+}
+
+form {
+  width: 30rem;
+}
+
+.form-body {
+  height: 10rem;
+  background-color: #fff;
+}
